@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Roots Starter Theme](http://roots.io/)
 [![devDependency Status](https://david-dm.org/roots/roots/dev-status.svg)](https://david-dm.org/roots/roots#info=devDependencies)
 
@@ -103,3 +104,7 @@ Everyone is welcome to help [contribute](CONTRIBUTING.md) and improve this proje
 ## Support
 
 Use the [Roots Discourse](http://discourse.roots.io/) to ask questions and get support.
+=======
+# refigural
+refigural
+>>>>>>> 4ee7eaeba6050ad21675dd060afe8ae64c82f21c
